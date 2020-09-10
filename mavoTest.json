@@ -14,5 +14,11 @@
 			"name": "Mavotest",
 			"@type": "Painting"
 		}
+	],
+	"picture": [
+		{
+			"image": "https://i.imgur.com/KZcAIZw.mp4",
+			"name": "KZcAIZw"
+		}
 	]
 }
