@@ -4,5 +4,15 @@
 	"avatar": "https://cdn.jsdelivr.net/gh/raytran/mv-data@46a140f9e4454386970cff8d62433baab99f09be/images/260663710.webp",
 	"pictures": [
 		{}
+	],
+	"painting": [
+		{
+			"name": "Mavotest",
+			"@type": "Painting"
+		},
+		{
+			"name": "Mavotest",
+			"@type": "Painting"
+		}
 	]
 }
