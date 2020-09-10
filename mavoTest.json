@@ -21,6 +21,10 @@
 			"name": "Test image"
 		},
 		{
+			"image": "https://cdn.jsdelivr.net/gh/raytran/mv-data@aedac40cc55ee39d46a5a87fffc434da5df6acd6/images/T63XbVv.jpg",
+			"name": "A picture of a shrimp"
+		},
+		{
 			"name": "Mavotest"
 		}
 	]
