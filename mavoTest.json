@@ -19,6 +19,9 @@
 		{
 			"image": "https://i.imgur.com/IIazbah.jpg",
 			"name": "Test image"
+		},
+		{
+			"name": "Mavotest"
 		}
 	]
 }
