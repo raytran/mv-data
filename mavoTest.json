@@ -25,7 +25,8 @@
 			"name": "A picture of a shrimp"
 		},
 		{
-			"name": "Mavotest"
+			"image": "https://cdn.jsdelivr.net/gh/raytran/mv-data@744b65d090ba783c2f47a788f95cdc9db0139049/images/Q4GKSpd.jpeg",
+			"name": "Q4GKSpd"
 		}
 	]
 }
